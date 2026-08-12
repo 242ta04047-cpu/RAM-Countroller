@@ -1,0 +1,13 @@
+WRITE: Address = 0, Data = AA
+WRITE: Address = 1, Data = 55
+WRITE: Address = 2, Data = F0
+READ : Address = 0, Data = aa
+READ : Address = 1, Data = 55
+READ : Address = 2, Data = f0
+----------------------------------------
+RAM CONTROLLER SIMULATION
+----------------------------------------
+Data Width : 8 bits
+RAM Depth  : 16
+Status     : SIMULATION COMPLETED
+----------------------------------------
